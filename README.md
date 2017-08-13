@@ -12,7 +12,7 @@ visitors to browse their movies and watch the trailers.
 # Quickstart
 
 ### Install
-Install [Python](https://www.python.org/)
+Install [Python](https://www.python.org/) <br />
 Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### Download
@@ -20,7 +20,7 @@ Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 #### Command Line
 
 ```
-git clone https://github.com/udacity/ud036_StarterCode.git
+git clone https://github.com/jjsuper/ud036_StarterCode
 ```
 
 ### Usage
